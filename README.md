@@ -12,10 +12,14 @@ It lets you connect and talk to like minded people. Create your own community an
     </ul>
   </li>
   <li>Sense of belonging
+    <ul>
     <li>Making friends in college can help you feel like you belong on campus. Feeling connected to a community can make you more motivated to participate in activities and events, and can lead to a more positive college experience overall.</li>
+    </ul>
   </li>
   <li>Networking opportunities
+    <ul>
     <li>The friends you make in college can also provide valuable networking opportunities. They may have connections to internships, jobs, or other opportunities that could benefit your career in the future.</li>
+    </ul>
   </li>
 </ol>
 
