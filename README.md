@@ -7,7 +7,9 @@ It lets you connect and talk to like minded people. Create your own community an
 
 <ol>
   <li>Learning and growth
-    <li>Making friends with people from different backgrounds and perspectives will expand your worldview and help you learn more about yourself. It will also challenge your assumptions and help you grow as a person.</li>
+    <ul>
+      <li>Making friends with people from different backgrounds and perspectives will expand your worldview and help you learn more about yourself. It will also challenge your assumptions and help you grow as a person.</li>
+    </ul>
   </li>
   <li>Sense of belonging
     <li>Making friends in college can help you feel like you belong on campus. Feeling connected to a community can make you more motivated to participate in activities and events, and can lead to a more positive college experience overall.</li>
